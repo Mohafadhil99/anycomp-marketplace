@@ -25,3 +25,13 @@ A backend project built with Spring Boot for handling buyers, sellers, items, an
 
 1. Set up PostgreSQL and create a DB: `anycompdb`
 2. Configure your `application.properties`:
+. Run the app from `AnycompMarketplaceApplication.java`
+
+## 🔌 API Endpoints
+
+- `/buyers`
+- `/sellers`
+- `/items`
+- `/purchase`
+
+Use Swagger UI:
